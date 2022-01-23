@@ -1,5 +1,6 @@
 {
-    "solidity.compileUsingLocalVersion": "c:\\Users\\USER\\nft-demo\\soljson-v0.6.6+commit.6c089d02.js",
-    "solidity.compileUsingRemoteVersion": "v0.6.6+commit.6c089d02",
-    "python.formatting.provider": "black"
+    "solidity.compileUsingLocalVersion": "c:\\Users\\USER\\nft-demo\\soljson-v0.4.11+commit.68ef5810.js",
+    "solidity.compileUsingRemoteVersion": "v0.4.11+commit.68ef5810",
+    "python.formatting.provider": "black",
+    "solidity.defaultCompiler": "localFile"
 }
